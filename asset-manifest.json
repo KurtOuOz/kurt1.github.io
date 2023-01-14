@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kurt1.github.io/static/css/main.689ac9df.css",
+    "main.js": "/kurt1.github.io/static/js/main.ae4dc6c3.js",
+    "index.html": "/kurt1.github.io/index.html",
+    "main.689ac9df.css.map": "/kurt1.github.io/static/css/main.689ac9df.css.map",
+    "main.ae4dc6c3.js.map": "/kurt1.github.io/static/js/main.ae4dc6c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.689ac9df.css",
+    "static/js/main.ae4dc6c3.js"
+  ]
+}
